@@ -58,7 +58,7 @@ The expected outcome of this stage is a set of usable, science-based decision-su
 
 Through this four-stage methodology, my endeavor combines experimental ecology, real-world monitoring, advanced modeling, and practical translation in a single integrated framework. This makes it well suited to generating both scientific insight and management-relevant tools for protecting U.S. freshwater systems under multiple environmental stressors.
 
-![Integrated Multi-Stressor Ecological Forecasting Framework for U.S. Freshwater Systems](assets-adebukola/figure1.png)
+![Integrated Multi-Stressor Ecological Forecasting Framework for U.S. Freshwater Systems](figure1.png)
 
 ## Why This Methodology Improves on Current Freshwater Assessment Practice
 
